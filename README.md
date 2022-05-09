@@ -1,2 +1,2 @@
 # OpenCV
-This is where I'll be uploading my exploratory analysis of the OpenCV Python3 library.
+This is where I'll be uploading me playing around with OpenCV to gain familiarity.
